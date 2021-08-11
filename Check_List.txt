@@ -1,6 +1,0 @@
-1 ID
-2 Summary
-3 Steps
-4 Expected result
-5 Actual result passed/falled
-
